@@ -2,7 +2,7 @@
 git-assignment
 
 ## Project Overview
-This project demonstrates Git and GitHub workflow.
+This project demonstrates collaborative Git and GitHub development.
 
 ### Features
 - Git branching and commit workflow
