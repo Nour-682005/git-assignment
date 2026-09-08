@@ -1,5 +1,4 @@
-# git-assignment
-git-assignment
+# Git & GitHub Assignment
 
 ## Project Overview
 This project demonstrates a clean Git workflow for team collaboration.
